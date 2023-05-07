@@ -1,5 +1,4 @@
-# Developed By Toasty#0100 | Night Shift Studios
-
+# Developed by Cyrus Software LLC. | Published by Dawnstar Entertainment LLC.
 
 ########################################################################################################################
 
